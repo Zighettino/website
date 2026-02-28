@@ -1,0 +1,22 @@
+img {
+    width: 250px;
+}
+body {
+  text-align: center;
+  font-family: 'Comic Sans MS';
+  background: rgb(187, 176, 159);
+  color:aliceblue
+}
+#titolo1{
+    color:rgb(141, 132, 102);
+    font-size: 40px;
+}
+#titolo2{
+    font-size:20px;
+}
+
+
+
+
+
+
